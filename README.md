@@ -13,7 +13,7 @@ A frontend assignment built using React, Vite, and Tailwind CSS as part of the E
 - Vercel (Deployment)
 
 ## 📁 Project Structure
-
+```
 educase_india_assignment/
 ├── public/
 ├── src/
@@ -30,19 +30,24 @@ educase_india_assignment/
 ├── eslint.config.js
 ├── vercel.json
 └── README.md
-
+```
 ## ⚙️ Installation & Setup
 
 Ensure Node.js (v18 or later) is installed.
 
 1. Clone the repository
+```
 git clone https://github.com/palladeepu75/Educase_India_Ass.git
+```
 
 2. Install dependencies
+```
 npm install
-
+```
 3. Start development server
+```
 npm run dev
+```
 
 The app will run at http://localhost:5173
 
@@ -82,7 +87,7 @@ The project is deployment-ready for Vercel.
 
 ## 👤 Author
 
-Jaywant  
+Divya_Deepak  
 Frontend Developer  
 
 ## 📄 License
